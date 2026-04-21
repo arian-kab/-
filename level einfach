@@ -5,12 +5,12 @@ public class einfach{
     Einfach()
     {
        Zahl=0; 
-    
+    	
     }
-    hallo
     
     int start(){
         int Zahl=random.nextInt(10)+1;
     
     }
+ 
 }
