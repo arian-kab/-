@@ -7,7 +7,7 @@ public class einfach{
        Zahl=0; 
     
     }
-    
+    hallo
     
     int start(){
         int Zahl=random.nextInt(10)+1;
