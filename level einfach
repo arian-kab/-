@@ -1,0 +1,16 @@
+import java.util.Random;
+public class einfach{
+    Random random=new Random();
+    int Zahl;
+    Einfach()
+    {
+       Zahl=0; 
+    
+    }
+    
+    
+    int start(){
+        int Zahl=random.nextInt(10)+1;
+    
+    }
+}
